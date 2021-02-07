@@ -1,0 +1,12 @@
+.clicked-item{
+    background-color: tomato;
+    width: 700px;
+    margin-left: 400px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+
+}
+.search{
+    width: 500px;
+}
